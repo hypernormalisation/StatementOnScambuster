@@ -43,14 +43,13 @@ Would Curse permit an addon that was incapable of broadcasting infractions to ot
 
 ## 4
 
-Did Curse take specific issue with player information (in the form of GUIDs and toon names) being packaged into an addon? I ask because several addons still currently exist on your platform, e.g.
+Did Curse take specific issue with player information (in the form of GUIDs and toon names) being packaged into an addon? I ask because several addons that do exactly this still currently exist on your platform, e.g.
 
 https://legacy.curseforge.com/wow/addons/benediction-blacklist
 
 If so, why was the base Scambuster addon delisted and these addons remain active on your platform?
 
-
-
+Has the Curse moderation team also checked addons like the above to verify that each player there is listed in a fair and transparent manner, apparently unlike our Scambuster-Golemagg that has been delisted? If so, what criteria would Curse expect of any discord moderation team attempting to curate a list of problematic players for their user base?
 
 ## 5 
 
