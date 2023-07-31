@@ -44,6 +44,7 @@ Would Curse permit an addon that was incapable of broadcasting infractions to ot
 ## 4
 
 Did Curse take specific issue with player information (in the form of GUIDs and toon names) being packaged into an addon? I ask because several addons still currently exist on your platform, e.g.
+
 https://legacy.curseforge.com/wow/addons/benediction-blacklist
 
 If so, why was the base Scambuster addon delisted and these addons remain active on your platform?
@@ -64,11 +65,12 @@ We have a very active and very valued LGBT community on the Golemagg server, and
 This also extends to other exclusionary and intolerant behaviour and rhetoric, non-exhaustively including antisemitism, racism, sexism etc.
 
 You can see examples of these cases in:
-https://discord.com/channels/610036506974748700/1134246230424293508
-https://discord.com/channels/610036506974748700/1082700886540832828/1082958487333642250
-https://discord.com/channels/610036506974748700/1068810923235606618
-https://discord.com/channels/610036506974748700/1057732225992499210
-https://discord.com/channels/610036506974748700/1039246133945446410
+
+- https://discord.com/channels/610036506974748700/1134246230424293508
+- https://discord.com/channels/610036506974748700/1082700886540832828/1082958487333642250
+- https://discord.com/channels/610036506974748700/1068810923235606618
+- https://discord.com/channels/610036506974748700/1057732225992499210
+- https://discord.com/channels/610036506974748700/1039246133945446410
 
 To our knowledge, and after checking with some of the players involved who made the reports to us, Blizzard did not action upon these or did not action upon these in any permanent ways. Many of these players who used such extreme and aggressive language are still playing WoW on the Golemagg server.
 
