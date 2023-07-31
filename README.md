@@ -33,9 +33,9 @@ Scambuster attempted to do a few things differently:
 - in the event that a problematic extension addon was produced, Curse would be able to take action against it existing on its platform, whereas the ability of weakauras to be shared freely in-game limits Wago's ability to prevent the dissemination of improperly curated data.
 - by moving the ecosystem to explicit addons, with open source code hosted on public sites and perhaps more easily interrogated for malicious code or intent than a WeakAura, the process could become more transparent.
 
-We had hoped that this could result in the widescale improvement of one of the core service provided by almost every WoW Classic Discord, and result in more fair and transparent processes of complaints.
+We had hoped that this could result in the widescale improvement of one of the core service provided by almost every WoW Classic realm Discord, and result in more fair and transparent processes of complaints.
 
-Certainly at Golemagg discord, the response to Scambuster in prventing our players from grouping with toxic or predatory individuals has been very overwhelmingly positive.
+Certainly at Golemagg discord, the response to Scambuster in preventing our players from grouping with toxic or predatory individuals has been very overwhelmingly positive.
 
 ---
 
