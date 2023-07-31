@@ -45,7 +45,7 @@ You state that the criteria for different groups were "inconsistent". This is la
 
 
 
-I help oversee the management of the Golemagg server discord, and we spend a lot of time curating a fair and transparent list of infractions where players either behaved antisocially (using slurs or encouraging suicide/self-harm) and/or broke established loot rules that do not contravene Blizzard's rules (or do not contravene them badly enough for Blizzard to intervene). This list is of great value to our users in being alerted they are playing with people who will not respect their time or social boundaries before they commit a valuable lockout and their time to playing with others.
+I help oversee the management of the Golemagg server discord, and we spend a lot of time curating a fair and transparent list of infractions where players either behaved antisocially (using slurs or encouraging suicide/self-harm) and/or broke established loot rules that do not contravene Blizzard's rules (or do not contravene them badly enough for Blizzard to intervene). This list is of great value to our users in being alerted they are playing with people who will not respect their efforts or social boundaries before they commit a valuable lockout and their time to playing with others.
 
 You state that "players were being unfairly blacklisted" - I would strongly argue that this is not the case for the Golemagg list, and this can be easily verified by going to our discord server at:
 
