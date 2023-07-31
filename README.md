@@ -13,7 +13,7 @@ The reason given for their rejection was the following:
 
 > "After receiving numerous complaints and evaluating the "Scambuster" addons, it has been concluded that hosting these addons on CurseForge will not be permitted. Upon investigating the issue, it came to light that players were being unfairly blacklisted, with inconsistent and differing criteria applied by various groups, resulting in them being labeled as "scammers" to everyone on the server. This practice has even been misused to target particular players in some cases. If you possess evidence of certain players violating the game's rules, we urge you to report them to Blizzard through the appropriate channels."
 
-I and the moderation team of the Golemagg discord have a number of comments/questions related to the above message to seek clarification on a few points, and would greatly appreciate it if anyone from Curse would have the time to engage with them - especially given nobody who develops and maintains our addons was privy to any deliberation on the viability of our addon's continued existance on the Curse platform.
+I and the moderation team of the Golemagg discord have a number of comments/questions related to the above message to seek clarification on a few points, and would greatly appreciate it if anyone from Curse would have the time to engage with them - especially given nobody who develops and/or maintains our addons was privy to any deliberation on the viability of our addon's continued existance on the Curse platform.
 
 ## A comment on Scambuster's design philosophy
 
