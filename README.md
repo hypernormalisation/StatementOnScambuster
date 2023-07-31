@@ -13,13 +13,33 @@ The reason given for their rejection was the following:
 
 > "After receiving numerous complaints and evaluating the "Scambuster" addons, it has been concluded that hosting these addons on CurseForge will not be permitted. Upon investigating the issue, it came to light that players were being unfairly blacklisted, with inconsistent and differing criteria applied by various groups, resulting in them being labeled as "scammers" to everyone on the server. This practice has even been misused to target particular players in some cases. If you possess evidence of certain players violating the game's rules, we urge you to report them to Blizzard through the appropriate channels."
 
-I and the moderation team of the Golemagg discord have a number of questions related to the above message to seek clarification on a few points, and would greatly appreciate it if anyone would have the time to engage with them.
+I and the moderation team of the Golemagg discord have a number of comments/questions related to the above message to seek clarification on a few points, and would greatly appreciate it if anyone from Curse would have the time to engage with them.
 
+## A comment on Scambuster's design philosophy
 
+Prior to the existence of Scambuster, "blacklist" programs were widely disseminated by many realm discords in the form of WeakAuras to help their users avoid scammers and toxic users who were not being actively punished or stopped by Blizzard themselves. This had a few drawbacks:
+
+- much work on the core functionality of how such a program should work was duplicated, and often implemented poorly/inefficiently and in a buggy fashion
+- the data on players who had committed infractions was bundled with the core Weak Aura. Weak Auras can often be difficult to keep updated, despite the existence of the WeakAura companion app (which at time of Scambuster release was still capable of producing extremely broken results in-game). Frequent updates to the data being used is a necessity of such a watchlist application
+- such lists used purely the names of the player toons involved in any harassment or scam. Name changes in wow are very easy, and this can also lead to false-positives where a vacant name previously used by a scammer or toxic player is taken up following a name-change by the original player.
+- these programs rarely linked back to any concrete evidence on any infraction, with the user having to take the warnings by-word, if they even knew where the weak aura originally came from before it was altered and shared so freqently in-game.
+
+Scambuster attempted to do a few things differently:
+- the core addon was simply a vehicle to scan fellow players during the user's interactions with them, and to cross-check their publicly identifiable information against an internal database, and to produce customisable warnings.
+- such warnings be required to feature URL links back to the original evidence behind any case, such that trust was never naively assumed.
+- ideally, cross-checking could be done using a player's Globally Unique IDentifier (GUID), avoiding the possibility of name-matches being false-positives, and allowing communities to track toxic or predatory users across name changes within the same WoW Classic server.
+
+---
+
+We would now like to address some parts of the Curse rejection message directly.
 
 ## 1
 
-You state that the criteria for different groups were "inconsistent". This is largely a design feature of the addon; that it be decentralised such that different lists could be judged on their own merits and the quality of their curation. I help oversee the management of the Golemagg server discord, and we spend a lot of time curating a fair and transparent list of infractions where players either behaved antisocially (using slurs or encouraging suicide/self-harm) and/or broke established loot rules that do not contravene Blizzard's rules (or do not contravene them badly enough for Blizzard to intervene). This list is of great value to our users in being alerted they are playing with people who will not respect their time or social boundaries before they commit a valuable lockout and their time to playing with others.
+You state that the criteria for different groups were "inconsistent". This is largely a design feature of the addon; that it be decentralised such that different lists could be judged on their own merits and the quality of their curation.
+
+
+
+I help oversee the management of the Golemagg server discord, and we spend a lot of time curating a fair and transparent list of infractions where players either behaved antisocially (using slurs or encouraging suicide/self-harm) and/or broke established loot rules that do not contravene Blizzard's rules (or do not contravene them badly enough for Blizzard to intervene). This list is of great value to our users in being alerted they are playing with people who will not respect their time or social boundaries before they commit a valuable lockout and their time to playing with others.
 
 You state that "players were being unfairly blacklisted" - I would strongly argue that this is not the case for the Golemagg list, and this can be easily verified by going to our discord server at:
 
