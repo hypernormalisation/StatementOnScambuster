@@ -81,4 +81,13 @@ Should players from vulnerable demographics not have some recourse to organise a
 
 ## Moving Forward
 
-<tbd>
+The moderation team of the Golemagg discord would be very keen to continue to provide a service for our users to protect them from predatory and bigoted behaviour.
+Being part of the Curse ecosystem, and leveraging the Curse client, are vital to keeping our users up-to-date on people who have been taking advantage of or harassing other users - and equally vital to allow people who have reformed to be taken off of our watchlists.
+
+We would be very keen to move forward and work with Curse in such a way where we can produce a product that Curse does find acceptable to list on its platform.
+To that end we seek clarification on:
+
+- what are the rules regarding the packaging of such community watchlist addons?
+- is it possible to tailor our product to be one that still provides the same core service, but in a way Curse finds amenable?
+
+Thank you for your time.
