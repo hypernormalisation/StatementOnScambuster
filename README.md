@@ -1,7 +1,9 @@
 # A response to the rejection of the Scambuster and Scambuster-Golemagg addons from the Curse addon platform.
 
 On July 31st 2023, after 6 months of being published exclusively on the Curse platform, the Scambuster and Scambuster-Golemagg addons were rejected from Curse.
-We include below the contents of the ticket submitted regarding this decision by the Golemagg Discord staff.
+We include below the contents of the ticket submitted regarding this decision by the Golemagg Discord staff. You can find us and our server at:
+
+- https://discord.gg/golemagg
 
 ___
 
@@ -19,7 +21,11 @@ I and the moderation team of the Golemagg discord have a number of questions rel
 
 You state that the criteria for different groups were "inconsistent". This is largely a design feature of the addon; that it be decentralised such that different lists could be judged on their own merits and the quality of their curation. I help oversee the management of the Golemagg server discord, and we spend a lot of time curating a fair and transparent list of infractions where players either behaved antisocially (using slurs or encouraging suicide/self-harm) and/or broke established loot rules that do not contravene Blizzard's rules (or do not contravene them badly enough for Blizzard to intervene). This list is of great value to our users in being alerted they are playing with people who will not respect their time or social boundaries before they commit a valuable lockout and their time to playing with others.
 
-You state that "players were being unfairly blacklisted" - I would strongly argue that this is not the case for the Golemagg list, and this can be easily verified by going to our discord server. We have extensive quality-control that continually evolves, and each report is the subject of open and public debate among our userbase and moderation team. We also feature an appeals system whereby users put on the watchlist, and other users interested in the case, can give feedback after a case is closed, and whereby players who have committed infractions can demonstrate that they are willing to play by the established rules of the community and be taken off our lists.
+You state that "players were being unfairly blacklisted" - I would strongly argue that this is not the case for the Golemagg list, and this can be easily verified by going to our discord server at:
+
+- https://discord.gg/golemagg
+
+We have extensive quality-control that continually evolves, and each report is the subject of open and public debate among our userbase and moderation team. We also feature an appeals system whereby users put on the watchlist, and other users interested in the case, can give feedback after a case is closed, and whereby players who have committed infractions can demonstrate that they are willing to play by the established rules of the community and be taken off our lists.
 
 Consequently, I do not think the Scambuster-Golemagg addon is fairly or accurately described by the phrase "players were being unfairly blacklisted... This practice has even been misused to target particular players in some cases".
 
