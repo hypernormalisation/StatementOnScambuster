@@ -91,7 +91,7 @@ Pertaining to the following:
 
 "If you possess evidence of certain players violating the game's rules, we urge you to report them to Blizzard through the appropriate channels."
 
-One issue with this statement is that not all behaviours from which players wish to protect themselves are restricted by Blizzard, and not all infractions of Blizzard's Terms of Service are actioned upon.
+One issue with this statement is that not all behaviours from which players wish to protect themselves are restricted by Blizzard, and not all infractions of Blizzard's Terms of Service are actioned upon - though we always in turn suggest that our users also submit reports to official Blizzard channels even as they approach our Discord.
 
 We have a very active and very valued LGBT+ community on the Golemagg WoW server, and on the Golemagg discord itself. We think it is also fair to say that the paratextual community surrounding WoW Classic is often not the most welcoming place for LGBT+ people, and note in particular the rampant transphobia that inflects so much of the playerbase and the spaces they create. We are very proud to have carved out a niche on our Discord server where LGBT+ players are more free to express themselves safely and without harassment or exclusion.
 
