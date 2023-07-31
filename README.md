@@ -19,10 +19,11 @@ I and the moderation team of the Golemagg discord have a number of comments/ques
 
 Prior to the existence of Scambuster, "blacklist" programs were widely disseminated by many realm discords in the form of WeakAuras to help their users avoid scammers and toxic users who were not being actively punished or stopped by Blizzard themselves. This had a few drawbacks:
 
-- much work on the core functionality of how such a program should work was duplicated, and often implemented poorly/inefficiently and in a buggy fashion
-- the data on players who had committed infractions was bundled with the core Weak Aura. Weak Auras can often be difficult to keep updated, despite the existence of the WeakAura companion app (which at time of Scambuster release was still capable of producing extremely broken results in-game). Frequent updates to the data being used are a necessity of such a watchlist application
+- much work on the core functionality of how such a program should work was duplicated, and often implemented poorly/inefficiently and in a buggy fashion.
+- the data on players who had committed infractions was bundled with the core Weak Aura. Weak Auras can often be difficult to keep updated, despite the existence of the WeakAura companion app (which at time of Scambuster release was still capable of producing extremely broken results in-game). Frequent updates to the data being used are a necessity of such a watchlist application.
 - such lists used purely the names of the player toons involved in any harassment or scam. Name changes in wow are very easy, and this can also lead to false-positives where a vacant name previously used by a scammer or toxic player is taken up following a name-change by the original player.
-- these programs rarely linked back to any concrete evidence on any infraction, with the user having to take the warnings by-word, if they even knew where the weak aura originally came from before it was altered and shared so freqently in-game.
+- these programs rarely linked back to any concrete evidence on any infraction, with the user having to take the warnings by-word.
+- the tendency of wow players to share weak-auras very freely (and perhaps carelessly) in-game meant that determining the original authors of such WeakAura programs, or determining if they had been in some way tampered with following their development, was difficult or impossible.
 
 Scambuster attempted to do a few things differently:
 - the core addon was simply a vehicle to scan fellow players during the user's interactions with them, and to cross-check their publicly identifiable information against an internal database, and to produce customisable warnings.
