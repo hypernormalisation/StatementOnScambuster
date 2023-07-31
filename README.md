@@ -61,10 +61,12 @@ One issue with this statement is that not all behaviours from which players wish
 
 We have a very active and very valued LGBT+ community on the Golemagg WoW server, and on the Golemagg discord itself. We think it is also fair to say that the paratextual community surrounding WoW Classic is often not the most welcoming place for LGBT+ people, and note in particular the rampant transphobia that inflects so much of the playerbase and the spaces they create. We are very proud to have carved out a niche on our Discord server where LGBT+ players are more free to express themselves safely and without harassment or exclusion.
 
-One service we provide with our watchlist is alerting users that they are grouping with people who have a history of deploying extreme homophobic and/or transphobic language, including slurs and incitement to self-harm and suicide. Blizzard do not always take action on such players, and any action is often extremely soft or impermanent.
+We also note that WoW Classic spaces can be places that feature a lot of racism and racist abuse, which in the EU in particular often focuses on players from Iran or who are of Iranian descent. We work hard to ensure a space where players of any race or nationalty can feel welcome, and part of this includes dealing with reports of racist language and slurs both in-game and via Discord private messages. Some of this racist language does not appear to be actionable via Blizzard.
 
-We strongly disagree with that approach. We therefore include a "harassment" section of our list such that our LGBT players can be more safe when they play the game they enjoy.
-This also extends to other exclusionary and intolerant behaviour and rhetoric, non-exhaustively including antisemitism, racism, sexism etc.
+One of the services we provide with our watchlist is alerting users that they are grouping with people who have a history of deploying extreme racist, homophobic and/or transphobic language etc, including slurs and incitement to self-harm and suicide. Blizzard do not always take action on such players, and any action is often extremely soft or impermanent.
+
+We strongly disagree with that approach. We therefore include a "harassment" section of our list such that our players can be more safe when they play the game they enjoy.
+This also extends to other exclusionary and intolerant behaviour and rhetoric, non-exhaustively including antisemitism, sexism etc.
 
 You can see examples of these cases in:
 
@@ -74,9 +76,9 @@ You can see examples of these cases in:
 - https://discord.com/channels/610036506974748700/1057732225992499210
 - https://discord.com/channels/610036506974748700/1039246133945446410
 
-To our knowledge, and after checking with some of the players involved who made the reports to us, Blizzard did not action upon these or did not action upon these in any permanent ways. Many of these players who used such extreme and aggressive language are still playing WoW on the Golemagg server.
+To our knowledge, and after checking with some of the players involved who made the reports to us, Blizzard did not action upon these or did not action upon these in any permanent ways. Many of these players who used such extreme and aggressive language are still playing WoW Classic on the Golemagg server.
 
-My question is then, if we report the bigoted and intolerant treatment of our userbase to Blizzard and Blizzard do nothing, what recourse do we then have if this type of information-sharing is not possible in-game to protect players from antisocial behaviour?
+My question is then, if we report the bigoted and intolerant treatment of our userbase to Blizzard and Blizzard do nothing, what recourse do we then have if this type of information-sharing is not possible in-game to protect players from antisocial or violent behaviour?
 
 Should players from vulnerable demographics not have some recourse to organise amongst themselves to better protect their communities if Blizzard's approach to protecting these players and their dignity is often piecemeal at best, and non-existant at worst?
 
