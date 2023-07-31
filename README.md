@@ -26,7 +26,7 @@ Prior to the existence of Scambuster, "blacklist" programs were widely dissemina
 
 Scambuster attempted to do a few things differently:
 - the core addon was simply a vehicle to scan fellow players during the user's interactions with them, and to cross-check their publicly identifiable information against an internal database, and to produce customisable warnings.
-- such warnings be required to feature URL links back to the original evidence behind any case, such that trust was never naively assumed.
+- such warnings are required to feature URL links back to the original evidence behind any case, such that trust was never naively assumed.
 - ideally, cross-checking could be done using a player's Globally Unique IDentifier (GUID), avoiding the possibility of name-matches being false-positives, and allowing communities to track toxic or predatory users across name changes within the same WoW Classic server.
 - the addon was designed explicitly as an open platform, such that communities would be able to leverage the development of Scambuster to curate their own lists for the needs of their own users. If a list was not well-curated, it would not see wide adoption. The developers of Scambuster made no judgements or assumptions about who would provide or curate high-quality information, and instead wanted to let extension addons thrive or not based on their quality alone.
 - by moving the ecosystem to explicit addons, with open source code hosted on public sites and perhaps more easily interrogated for malicious code or intent than a WeakAura, the process could become more transparent.
