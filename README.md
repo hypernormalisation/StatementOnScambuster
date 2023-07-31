@@ -87,6 +87,7 @@ Should players from vulnerable demographics not have some recourse to organise a
 
 The moderation team of the Golemagg discord would be very keen to continue to provide a service for our users to protect them from predatory and bigoted behaviour.
 We see the ubiquity of "player reports" sections on WoW Classic realm discords as evidence that Blizzard's reporting functionality is not at all sufficient to stop players from being harassed by intolerant players, or taken advantage of by players with nefarious interests, and that some way of sharing information on such players in-game is a valuable service to provide.
+
 Being part of the Curse ecosystem, and leveraging the Curse client, are vital to keeping our users up-to-date on people who have been taking advantage of or harassing other users - and equally vital to allow people who have reformed to be taken off of our watchlists.
 
 We would be very keen to move forward and work with Curse in such a way where we can produce a product that Curse does find acceptable to list on its platform.
