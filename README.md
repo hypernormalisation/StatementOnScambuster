@@ -61,8 +61,9 @@ One issue with this statement is that not all behaviours from which players wish
 
 We have a very active and very valued LGBT+ community on the Golemagg WoW server, and on the Golemagg discord itself. We think it is also fair to say that the paratextual community surrounding WoW Classic is often not the most welcoming place for LGBT+ people, and note in particular the rampant transphobia that inflects so much of the playerbase and the spaces they create. We are very proud to have carved out a niche on our Discord server where LGBT+ players are more free to express themselves safely and without harassment or exclusion.
 
-One service we provide with our watchlist is alerting users that they are grouping with people who have a history of deploying extreme homophobic and/or transphobic language, including slurs and incitement to self-harm and suicide. Blizzard do not always take action on such players. We strongly disagree with that approach. We therefore include a "harassment" section of our list such that our LGBT players can be more safe when they play the game they enjoy.
+One service we provide with our watchlist is alerting users that they are grouping with people who have a history of deploying extreme homophobic and/or transphobic language, including slurs and incitement to self-harm and suicide. Blizzard do not always take action on such players, and any action is often extremely soft or impermanent.
 
+We strongly disagree with that approach. We therefore include a "harassment" section of our list such that our LGBT players can be more safe when they play the game they enjoy.
 This also extends to other exclusionary and intolerant behaviour and rhetoric, non-exhaustively including antisemitism, racism, sexism etc.
 
 You can see examples of these cases in:
